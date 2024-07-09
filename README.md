@@ -25,6 +25,6 @@ Image Classificatoin을 위한 CNN을 디벨롭시키는 교과목 내 프로젝
 <img width="383" alt="Untitled" src = "https://github.com/jayinsummer/CIFAR-10-classification/assets/112365313/e29d0b60-b1d5-4da9-b3c9-4f90c01af9a4">
 <hr/>
 
-# 최종 Accuracy 및 Loss
+# ✅ 최종 Accuracy 및 Loss
 Accuracy: 87%, Loss: 0.011
 <img width="305" alt="Untitled" src="https://github.com/jayinsummer/CIFAR-10-classification/assets/112365313/8532f25f-9742-41d0-9661-eb8ed30ccbc0">
